@@ -1,15 +1,3 @@
----
-title: GPT-124M Demo
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-license: mit
----
-
 # GPT-124M Language Model Demo
 
 A decoder-only transformer (GPT-2 architecture) trained from scratch with **124 million parameters**.
